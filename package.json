@@ -1,0 +1,17 @@
+{
+  "name": "coffee-debugger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cmd": ": &&",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug": "coffee --nodejs --inspect-brk folder/main.coffee"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coffee-debug": "0.0.3",
+    "coffee-script": "^1.10.0"
+  }
+}
