@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cmd": ": &&",
+    "cmd": ":&&",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "debug": "coffee --nodejs --inspect-brk folder/main.coffee"
+    "debug": "coffee --nodejs --inspect folder/main.coffee"
   },
   "author": "",
   "license": "ISC",
